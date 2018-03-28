@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Facebook Container",
+    "name": "LinkedIn Container",
     "version": "1.2.4",
 
-    "description": "Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.",
+    "description": "LinkedIn Container isolates your LinkedIn activity from the rest of your web activity in order to prevent LinkedIn from tracking you outside of the LinkedIn website via third party cookies.",
 
     "icons": {
         "48": "icon.png",
@@ -12,12 +12,12 @@
 
     "applications": {
       "gecko": {
-        "id": "@contain-facebook",
+        "id": "@contain-linked-in",
         "strict_min_version": "57.0"
       }
     },
 
-    "homepage_url": "https://github.com/mozilla/contain-facebook",
+    "homepage_url": "https://github.com/ignisf/contain-linked-in",
 
     "permissions": [
         "<all_urls>",
