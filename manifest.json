@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "LinkedIn Container",
-    "version": "1.2.4",
+    "version": "1.2.5",
 
-    "description": "LinkedIn Container isolates your LinkedIn activity from the rest of your web activity in order to prevent LinkedIn from tracking you outside of the LinkedIn website via third party cookies.",
+    "description": "LinkedIn Container isolates your LinkedIn activity from the rest of your web activity in order to prevent LinkedIn from tracking you outside of the LinkedIn website via third party cookies. It's a non-official fork of Mozilla's Facebook Container.",
 
     "icons": {
         "48": "icon.png",

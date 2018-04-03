@@ -35,7 +35,7 @@ const LINKEDIN_SUBDOMAINS = ['af', 'ax', 'al', 'dz', 'as', 'ad', 'ao', 'ai',
                              'to', 'tt', 'tn', 'tr', 'tm', 'tc', 'tv', 'ug',
                              'ua', 'ae', 'gb', 'us', 'um', 'uy', 'uz', 'vu',
                              've', 'vn', 'vg', 'vi', 'wf', 'eh', 'ye', 'zm',
-                             'zw', 'www']
+                             'zw', 'www'];
 
 const LINKEDIN_DOMAINS = [LINKEDIN_TLD].concat(LINKEDIN_SUBDOMAINS.map(function(subdomain){
     return(subdomain + '.' + LINKEDIN_TLD);
